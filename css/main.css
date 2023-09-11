@@ -1,1 +1,7 @@
 /* Place CSS styles here */
+h1 {
+    color:rgb(16, 63, 96)
+  }
+body {
+    background-color: rgb(185, 210, 255);
+}
