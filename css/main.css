@@ -1,7 +1,53 @@
 /* Place CSS styles here */
 h1 {
+  text-align: center;
+  border: 3px solid green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:rgb(3, 68, 13)
   }
+h2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color:rgb(3, 68, 13)
+    }
+h3 {
+      text-align: center;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color:rgb(3, 68, 13)
+      }
+ol {
+  color:rgb(22, 109, 35)
+}
+p {
+  color:rgb(22, 109, 35)
+}
+      body {
+    background-color: rgb(212, 237, 219);
+}
 body {
-    background-color: rgb(163, 215, 176);
+  width: 500px;
+  margin: 0 auto;
+}
+p {
+  text-align: center;
+  background-color: rgb(207, 232, 220);
+  border: 2px solid rgb(5, 62, 5);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  color:rgb(3, 68, 13)
+}
+a:hover, a:active {
+  background-color: rgb(178, 224, 181);
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
