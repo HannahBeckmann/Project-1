@@ -14,17 +14,25 @@ h2 {
     }
 h3 {
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color:rgb(3, 68, 13)
-      }
-h4{
-  text-align: center;
+  font-size: smaller;
   margin-top: 30;
   padding: 10px;
   border: 3px solid green;
   background-color: rgb(118, 186, 118);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:rgb(3, 68, 13)
+}
+.getting-involved {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30;
+  padding: 10px;
+  border: 3px solid green;
+  background-color: rgb(118, 186, 118);
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:rgb(3, 68, 13)
 }
 ol {
   font-weight: 650;
